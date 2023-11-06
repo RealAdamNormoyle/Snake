@@ -1,0 +1,29 @@
+{
+  "Assets": [
+    {
+      "Name": "background-music",
+      "Path": "Audio/background-music.wav",
+      "Type": "Audio"
+    },
+    {
+      "Name": "collect-food-sfx",
+      "Path": "Audio/collect-food-sfx.wav",
+      "Type": "Audio"
+    },
+    {
+      "Name": "endgame-sfx",
+      "Path": "Audio/endgame-sfx.wav",
+      "Type": "Audio"
+    },
+    {
+      "Name": "Title",
+      "Path": "Title.png",
+      "Type": "Bitmap"
+    },
+    {
+      "Name": "gameover-title",
+      "Path": "Sprites/ui_gameover.png",
+      "Type": "Bitmap"
+    }
+  ]
+}
